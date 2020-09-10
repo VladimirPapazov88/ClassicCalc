@@ -16,3 +16,5 @@ Have a happy using file!!!!!
 
 
 ![Image alt](https://github.com/VladimirPapazov88/ClassicCalc/blob/master/example.png?raw=true)
+
+![Image alt](https://github.com/VladimirPapazov88/ClassicCalc/blob/master/example2.png?raw=true)
