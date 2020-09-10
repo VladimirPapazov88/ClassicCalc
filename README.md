@@ -6,13 +6,11 @@ To run it follow this steps:
 3. Open in the Python3 "ClassicCalc.py" file
 4. Click f5 or choose run->run module
 
-To run with Linux Terminal follow this steps:
-1. Download code .zip file
-2. Unpack .zip file
+To run with Linux Terminal. Run this steps in a terminal:
+git clone "https://github.com/VladimirPapazov88/ClassicCalc.git"
+cd "ClassicCalc"
+python3 "ClassicCalc.py"
 
-Run in terminal:
-
-cd <Directory, where your file>
 
 python3 "ClassicCalc.py"
 
