@@ -9,6 +9,7 @@ To run it follow this steps:
 To run with Linux Terminal follow this steps:
 1. Download code .zip file
 2. Unpack .zip file
+
 Run in terminal:
 cd <Directory, where your file>
 python3 "ClassicCalc.py"
