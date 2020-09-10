@@ -19,3 +19,5 @@ To run with Windows cmd.exe follow this steps:
 3. Click win+R and write cmd.exe <enter>
 Run in cmd.exe:
 py.exe "<Drive>:\<Folder>\ClassicCalc.py"
+
+![Image alt](https://github.com/VladimirPapazov88/ClassicCalc/blob/master/example.png?raw=true)
