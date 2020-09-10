@@ -20,7 +20,9 @@ To run with Windows cmd.exe follow this steps:
 1. Download code .zip file
 2. Unpack .zip file
 3. Click win+R and write cmd.exe
+
 Run in cmd.exe:
+
 py.exe "{File path}"
 
 ![Image alt](https://github.com/VladimirPapazov88/ClassicCalc/blob/master/example.png?raw=true)
