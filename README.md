@@ -1,20 +1,18 @@
 The Classic calculator on Python3 Tkinter
 
-To run it follow this steps:
+To run it in the Windows or MacOS follow this steps:
 1. Download code .zip file
 2. Unpack .zip file
-3. Open in the Python3 "ClassicCalc.py" file
+3. Open in the Python3 IDLE "ClassicCalc.py" file
 4. Click f5 or choose run->run module
 
-To run with Linux terminal download "ClassicCalcLXRun.sh" and run in terminal: sh "ClassicCalcLXRun.sh"
+To run it in the Linux or MacOS follow this steps:
+1. Download the "ClassicCalc_LX_or_MACOS_Run.sh" file
+2. Open terminal and in it run this commands:
+   cd "<Directory, where your .sh file>"
+   sh "ClassicCalc_LX_or_MACOS_Run.sh"
 
-To run with Windows cmd.exe follow this steps:
-1. Download code .zip file
-2. Unpack .zip file
-3. Click win+R and write cmd.exe
+Have a happy using file!!!!!
 
-Run in cmd.exe:
-
-py.exe "{File path}"
 
 ![Image alt](https://github.com/VladimirPapazov88/ClassicCalc/blob/master/example.png?raw=true)
