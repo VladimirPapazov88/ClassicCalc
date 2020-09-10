@@ -9,8 +9,8 @@ To run it in the Windows or MacOS follow this steps:
 To run it in the Linux or MacOS follow this steps:
 1. Download the "ClassicCalc_LX_or_MACOS_Run.sh" file
 2. Open terminal and in it run this commands:
-   cd "<Directory, where your .sh file>"
-   sh "ClassicCalc_LX_or_MACOS_Run.sh"
+1. cd "<Directory, where your .sh file>"
+2. sh "ClassicCalc_LX_or_MACOS_Run.sh"
 
 Have a happy using file!!!!!
 
