@@ -6,13 +6,7 @@ To run it follow this steps:
 3. Open in the Python3 "ClassicCalc.py" file
 4. Click f5 or choose run->run module
 
-To run with Linux Terminal. Run this steps in a terminal:
-git clone "https://github.com/VladimirPapazov88/ClassicCalc.git"
-cd "ClassicCalc"
-python3 "ClassicCalc.py"
-
-
-python3 "ClassicCalc.py"
+To run with Linux terminal download "ClassicCalcLXRun.sh" and run in terminal: sh "ClassicCalcLXRun.sh"
 
 To run with Windows cmd.exe follow this steps:
 1. Download code .zip file
