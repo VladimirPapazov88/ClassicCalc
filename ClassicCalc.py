@@ -23,4 +23,4 @@ txt.grid(column=1, row=0)
 btn = Button(window, text="=", font=("Arial", 24), command=check)
 btn.grid(column=3, row=0)
 
-a = input("Type q to exit")
+a = input("Type q to exit\n")
