@@ -11,7 +11,9 @@ To run with Linux Terminal follow this steps:
 2. Unpack .zip file
 
 Run in terminal:
+
 cd <Directory, where your file>
+
 python3 "ClassicCalc.py"
 
 To run with Windows cmd.exe follow this steps:
