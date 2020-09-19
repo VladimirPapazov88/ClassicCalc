@@ -10,7 +10,7 @@ def check():
     
 window = Tk()
 window.title("Calculator by VladimirPapazov88")
-window.geometry('1500x100')
+window.geometry('1300x100')
 
 lbl = Label(window, text="Classic calculator! Enter a mathematical expression and click the '=' button: ", font=("Arial", 24))
 lbl.grid(column=0, row=0)
